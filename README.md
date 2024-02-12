@@ -22,7 +22,7 @@ Before running the code in this repository, ensure you have the following depend
 ## Usage
 
 1. **Deep_Neural_network_from_the_ground_up** 
-    This project implement without using Keras or Tensorflow. The program determine from a dataset of image if it is a cat or not.
+    This project implement a deep learning model without using Keras or Tensorflow. The program determine from a dataset of image if it is a cat or not.
     * The results have a training accuracy of 99.9999% and a test accuracy of 70%
     <figure>
    <img src="dnn_error.png">
